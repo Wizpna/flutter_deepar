@@ -1,10 +1,12 @@
 # flutter_deepar
 
-This is a simple project Demonstrate how to build Whatsapp, Messenger and Instagram status stories using Flutter
+This is a simple project that will help you learn how to build a simple face filter app with Flutter and Deep AR
 
-You can read an article about this project, which is on medium: https://blog.usejournal.com/fastest-way-to-build-your-whatsapp-status-story-with-flutter-838fcee973d3
+You can read an article about this project, which is on medium: https://medium.com/flutter-community/easiest-steps-to-build-a-face-filter-app-with-flutter-and-deep-ar-c020037d893d
 
-<img src="https://miro.medium.com/max/1025/1*NBG7TfAvCtoN-ew7aymWdw.jpeg"  title="Google_Search">
+<h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
+
+<img src="https://miro.medium.com/max/2400/1*t69wykrEU8ZQ77yZVFU4lw.png"  title="flutter_deepar">
 
 Contact - Let's become friends
 
