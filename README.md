@@ -1,16 +1,14 @@
 # flutter_deepar
 
-A new Flutter application.
+This is a simple project Demonstrate how to build Whatsapp, Messenger and Instagram status stories using Flutter
 
-## Getting Started
+You can read an article about this project, which is on medium: https://blog.usejournal.com/fastest-way-to-build-your-whatsapp-status-story-with-flutter-838fcee973d3
 
-This project is a starting point for a Flutter application.
+<img src="https://miro.medium.com/max/1025/1*NBG7TfAvCtoN-ew7aymWdw.jpeg"  title="Google_Search">
 
-A few resources to get you started if this is your first Flutter project:
+Contact - Let's become friends
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://github.com/Wizpna">Github</a></br>
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
+<a href="https://www.facebook.com/promise.nzubechi.amadi">Facebook</a>
