@@ -41,5 +41,15 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+	<key>NSCameraUsageDescription</key>
+        <string>Allows you to capture your best moment</string>
+    	<key>io.flutter.embedded_views_preview</key>
+    	<true/>
+        <key>NSPhotoLibraryAddUsageDescription</key>
+        <string>Allows you to capture your best moment</string>
+        <key>NSMicrophoneUsageDescription</key>
+        <string>Needs access to your mic to help your record voice notes on chat/message conversations</string>
+
 </dict>
 </plist>

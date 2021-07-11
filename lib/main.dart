@@ -1,5 +1,5 @@
-import 'package:camera_deep_ar/camera_deep_ar.dart';
 import 'package:flutter/material.dart';
+import 'package:rwa_deep_ar/rwa_deep_ar.dart';
 
 void main() {
   runApp(MyApp());
